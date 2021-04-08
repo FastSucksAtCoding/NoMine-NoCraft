@@ -2,16 +2,13 @@
 ~~ To keep this fully legal, please don't sell in any shape or form this project.            
 ~~ All rights goes to "Mojang"                                                               
                                                                                            
-~~ Buy and download original game from:                                                      
-~~ https://www.minecraft.net/en-us/download                                                  
+~~ Buy and download original game from: https://www.minecraft.net/en-us/download                                                  
 
-Original "NoMine NoCraft" download: 
-https://fastsucksatcoding.github.io/NoMine-NoCraft.download/home.html
+Original "NoMine NoCraft" download: https://fastsucksatcoding.github.io/NoMine-NoCraft.download/home.html
 
 This game was fully coded in python using "Ursina Game Engine" 
 
-Ursina Game Engine download:
-https://www.ursinaengine.org/
+Ursina Game Engine download: https://www.ursinaengine.org/
 
 Tools used: 
 - Gimp (Textures)
