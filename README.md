@@ -5,6 +5,9 @@
 ~~ Buy and download original game from:                                                      
 ~~ https://www.minecraft.net/en-us/download                                                  
 
+Original "NoMine NoCraft" download: 
+https://fastsucksatcoding.github.io/NoMine-NoCraft.download/home.html
+
 This game was fully coded in python using "Ursina Game Engine" 
 
 Ursina Game Engine download:
