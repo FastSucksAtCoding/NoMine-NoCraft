@@ -1,18 +1,4 @@
- ███▄ ▄███▓ ██▓ ███▄    █ ▓█████  ▄████▄   ██▀███   ▄▄▄        █████▒▄▄▄█████▓      ██▓███ ▓██   ██▓
-▓██▒▀█▀ ██▒▓██▒ ██ ▀█   █ ▓█   ▀ ▒██▀ ▀█  ▓██ ▒ ██▒▒████▄    ▓██   ▒ ▓  ██▒ ▓▒     ▓██░  ██▒▒██  ██▒
-▓██    ▓██░▒██▒▓██  ▀█ ██▒▒███   ▒▓█    ▄ ▓██ ░▄█ ▒▒██  ▀█▄  ▒████ ░ ▒ ▓██░ ▒░     ▓██░ ██▓▒ ▒██ ██░
-▒██    ▒██ ░██░▓██▒  ▐▌██▒▒▓█  ▄ ▒▓▓▄ ▄██▒▒██▀▀█▄  ░██▄▄▄▄██ ░▓█▒  ░ ░ ▓██▓ ░      ▒██▄█▓▒ ▒ ░ ▐██▓░
-▒██▒   ░██▒░██░▒██░   ▓██░░▒████▒▒ ▓███▀ ░░██▓ ▒██▒ ▓█   ▓██▒░▒█░      ▒██▒ ░  ██▓ ▒██▒ ░  ░ ░ ██▒▓░
-░ ▒░   ░  ░░▓  ░ ▒░   ▒ ▒ ░░ ▒░ ░░ ░▒ ▒  ░░ ▒▓ ░▒▓░ ▒▒   ▓▒█░ ▒ ░      ▒ ░░    ▒▓▒ ▒▓▒░ ░  ░  ██▒▒▒ 
-░  ░      ░ ▒ ░░ ░░   ░ ▒░ ░ ░  ░  ░  ▒     ░▒ ░ ▒░  ▒   ▒▒ ░ ░          ░     ░▒  ░▒ ░     ▓██ ░▒░ 
-░      ░    ▒ ░   ░   ░ ░    ░   ░          ░░   ░   ░   ▒    ░ ░      ░       ░   ░░       ▒ ▒ ░░  
-       ░    ░           ░    ░  ░░ ░         ░           ░  ░                   ░           ░ ░     
-                                 ░                                              ░           ░ ░     
-
-
-
-
-To keep this fully legal, please don't sell in any shape or form this project. You can claim it as yours just don't sell it at all.
+To keep this fully legal, please don't sell in any shape or form this project.
 All rights goes to "Mojang"
 Buy and download original game from: 
 https://www.mincraft.net/en-us/download
