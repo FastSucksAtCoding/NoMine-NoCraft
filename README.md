@@ -13,5 +13,4 @@ Tools used:
 - Sublime Text (Coding)
 - Visual Studio Code (Coding)
 
-Don't forget this is open-source game, if you are downloading this game from different source, please check code it can contain malware.
 Enjoy playing :>
