@@ -1,9 +1,10 @@
-To keep this fully legal, please don't sell in any shape or form this project.
-
-All rights goes to "Mojang"
-
-Buy and download original game from: 
-https://www.minecraft.net/en-us/download
+=============================================================================================
+= To keep this fully legal, please don't sell in any shape or form this project.            =
+= All rights goes to "Mojang"                                                               =
+=                                                                                           =
+= Buy and download original game from:                                                      =
+= https://www.minecraft.net/en-us/download                                                  =
+=============================================================================================
 
 This game was fully coded in python using "Ursina Game Engine" 
 
